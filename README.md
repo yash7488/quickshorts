@@ -10,6 +10,7 @@ Quickshorts is a social media application where you can create image posts,like 
 2.  **Session Management**: JWT is used for session management in Snapture. It helps maintain user sessions and provides secure access to different parts of the application.
     
  ## Technology Stack
+![Screenshot 2024-02-04 at 11 33 27 AM (1)](https://github.com/yash7488/Quickshorts/assets/80100162/faa7f94a-5e53-4d7c-b266-d58ec300b9d5)
 
 Quickshorts is built using the following technologies:
 
@@ -17,7 +18,7 @@ Quickshorts is built using the following technologies:
 -   **Backend**: Node.js with Express.js
 -   **Database**: MongoDB
    
-![Uploading Screenshot 2024-02-04 at 11.33.27 AM.png…]()
+
 
 ## Prerequisites
 
