@@ -16,6 +16,7 @@ Quickshorts is built using the following technologies:
 -   **Frontend**: React.js
 -   **Backend**: Node.js with Express.js
 -   **Database**: MongoDB
+![Uploading Screenshot 2024-02-04 at 11.33.27 AM.png…]()
 
 ## Prerequisites
 
